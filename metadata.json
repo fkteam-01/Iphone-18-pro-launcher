@@ -1,0 +1,6 @@
+{
+  "name": "iPhone 18 Pro Max",
+  "description": "Interactive iOS simulation featuring iPhone 18 Pro Max hardware design, Dynamic Island, widgets, Control Center, and functional apps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
